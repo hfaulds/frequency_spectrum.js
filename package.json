@@ -1,0 +1,9 @@
+{
+  "name": "frequency_spectrum",
+  "version": "0.1.0",
+  "author": "Hayden Faulds <fauldsh@gmail.com>",
+  "dependencies": {
+    "express": "3.x"
+  },
+  "description": "A simple WebAudio frequency spectrum visualisation"
+}
